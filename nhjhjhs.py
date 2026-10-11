@@ -9,7 +9,7 @@ def start_bot():
             print("Connecting to Aternos server...")
             bot = mineflayer.createBot({
                 'host': 'anAs11ha-GiMI.aternos.me',
-                'port': 25565,
+                'port': 24414,
                 'username': 'AFK_Guard_247'
             })
 
